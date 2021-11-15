@@ -550,6 +550,10 @@ button:hover {
   font-size: 15px;
   text-align: center;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
 /* footer */
 .register-footer {
   width: 340px;
